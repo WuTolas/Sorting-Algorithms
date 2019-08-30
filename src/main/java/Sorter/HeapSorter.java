@@ -15,6 +15,9 @@ public class HeapSorter implements Sorter {
     /**
      * {@link Sorter}
      *
+     * Worst case time complexity - O(n*lg(n))
+     * Best case time complexity - O(n*lg(n))
+     *
      * @param list {@link Sorter}
      * @param <T> {@link Sorter}
      */

@@ -5,14 +5,14 @@ import java.util.List;
 
 /**
  * Bubble sort algorithm class for sorting list.
- *
- * Worst case time complexity - O(n2)
- * Best case time complexity - O(n) -> when list is already sorted
  */
 public class BubbleSorter implements Sorter {
 
     /**
      * {@link Sorter}
+     *
+     * Worst case time complexity - O(n2)
+     * Best case time complexity - O(n) -> when list is already sorted
      *
      * @param list list to be sorted
      * @param <T> class of objects to be sorted
