@@ -2,10 +2,10 @@ package Sorter;
 
 import org.junit.Before;
 
-public class HeapSorterTest extends SorterTest {
+public class HeapSortTest extends SorterTest {
 
     @Before
     public void setup() {
-        sorter = new HeapSorter();
+        sorter = new HeapSort();
     }
 }

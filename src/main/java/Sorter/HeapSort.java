@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Heap sort algorithm class for sorting list.
  */
-public class HeapSorter implements Sorter {
+public class HeapSort implements Sorter {
 
     private int heapSize;
     private HeapIndexCalculator leftIndex = x -> 2 * x + 1;

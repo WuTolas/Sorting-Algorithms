@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Bubble sort algorithm class for sorting list.
  */
-public class BubbleSorter implements Sorter {
+public class BubbleSort implements Sorter {
 
     /**
      * {@link Sorter}
